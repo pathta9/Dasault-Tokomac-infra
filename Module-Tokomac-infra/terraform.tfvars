@@ -30,6 +30,9 @@ rg66 = {
     location = "eastus"
   }
 
-
+rg77 = {
+    name     = "tp7"
+    location = "eastus"
+  }
 
 }
