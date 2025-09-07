@@ -25,6 +25,11 @@ rgff_map = {
     location = "eastus"
   }
 
+rg66 = {
+    name     = "tp6"
+    location = "eastus"
+  }
+
 
 
 }
