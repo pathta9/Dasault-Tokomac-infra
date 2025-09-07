@@ -35,4 +35,9 @@ rg77 = {
     location = "eastus"
   }
 
+rg88 = {
+    name     = "tp8"
+    location = "eastus"
+  }
+
 }
