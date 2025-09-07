@@ -20,4 +20,11 @@ rgff_map = {
     location = "eastus"
   }
 
+  rg55 = {
+    name     = "tp5"
+    location = "eastus"
+  }
+
+
+
 }
