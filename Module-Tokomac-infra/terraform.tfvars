@@ -9,8 +9,13 @@ rgff_map = {
     name     = "tp22"
     location = "eastus"
   }
-  rg44 ={
+  rg44 = {
     name     = "tp2"
+    location = "eastus"
+  }
+
+  rg55 = {
+    name     = "t5"
     location = "eastus"
   }
 
