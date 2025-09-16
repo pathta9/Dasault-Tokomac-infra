@@ -1,21 +1,21 @@
 rgff_map = {
 
-  rg1 = {
-    name     = "tp11"
+  rg111 = {
+    name     = "tp111"
     location = "westus"
   }
 
-  rg22 = {
-    name     = "tp22"
+  rg222 = {
+    name     = "tp222"
     location = "eastus"
   }
-  rg44 = {
-    name     = "tp2"
+  rg444 = {
+    name     = "tp24"
     location = "eastus"
   }
 
-  rg55 = {
-    name     = "t5"
+  rg555 = {
+    name     = "t55"
     location = "eastus"
   }
 
